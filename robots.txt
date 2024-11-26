@@ -1,0 +1,1 @@
+Sitemap: https://auburnseclab.github.io/lab-website-template/sitemap.xml
