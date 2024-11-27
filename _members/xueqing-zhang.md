@@ -1,11 +1,8 @@
 ---
 name: Xueqing (Cathy) Zhang
 image: images/photo.jpg
-role: Ph.D. Student
-affiliation: Auburn University
-aliases:
-  - X. Zhang
-  - X Zhang
+role: phd
+group: alum
 links:
   home-page: 
   orcid: 
