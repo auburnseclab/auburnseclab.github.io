@@ -1,8 +1,5 @@
 - id: doi:10.1109/TBDATA.2024.3495497
 
-# manually correct specific citation detail
-- id: usenixsecurity23:chen-sanchuan
-  publisher: USENIX
 # manually provide all citation details
 - title: Controlled Data Races in Enclaves: Attacks and Detection
   authors:
@@ -10,6 +7,6 @@
     - Zhiqiang Lin
     - Yinqian Zhang
   publisher: USENIX Security'23
-  date: 2023-08
+  date: 2023-08-01
   link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-sanchuan
 
