@@ -1,5 +1,6 @@
 # manually provide all citation details
-- title: "Controlled Data Races in Enclaves: Attacks and Detection"
+- id: usenix-security-2023
+  title: "Controlled Data Races in Enclaves: Attacks and Detection"
   authors:
     - "**Sanchuan Chen**"
     - Zhiqiang Lin
