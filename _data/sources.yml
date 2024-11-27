@@ -1,6 +1,5 @@
 # manually provide all citation details
-- id: usenix-security-2023
-  title: Controlled Data Races in Enclaves: Attacks and Detection
+- title: Controlled Data Races in Enclaves: Attacks and Detection
   authors:
     - "**Sanchuan Chen**"
     - Zhiqiang Lin
@@ -8,15 +7,13 @@
   publisher: USENIX Security Symposium 2023
   date: 2023-01-01
 
-- id: phd-dissertation-2021
-  title: Exploring Value Set Analysis for Binary Code Hardening and Vulnerability Detection
+- title: Exploring Value Set Analysis for Binary Code Hardening and Vulnerability Detection
   authors:
     - "**Sanchuan Chen**"
   publisher: Ph.D. Dissertation
   date: 2021-01-01
   
-- id: usenix-security-2021
-  title: SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting
+- title: SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting
   authors:
     - "**Sanchuan Chen**"
     - Zhiqiang Lin
