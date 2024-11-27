@@ -1,5 +1,8 @@
 - id: doi:10.1109/TBDATA.2024.3495497
 
+# manually correct specific citation detail
+- id: usenixsecurity23:chen-sanchuan
+  publisher: USENIX
 # manually provide all citation details
 - title: Controlled Data Races in Enclaves: Attacks and Detection
   authors:
