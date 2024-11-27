@@ -7,7 +7,6 @@
     - Yinqian Zhang
   publisher: USENIX Security Symposium 2023
   date: 2023-01-01
-  link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-sanchuan
 
 - id: phd-dissertation-2021
   title: Exploring Value Set Analysis for Binary Code Hardening and Vulnerability Detection
@@ -15,7 +14,6 @@
     - "**Sanchuan Chen**"
   publisher: Ph.D. Dissertation
   date: 2021-01-01
-  link: https://www.proquest.com/dissertations-theses/exploring-value-set-analysis-binary-code/docview/2697183017/se-2
   
 - id: usenix-security-2021
   title: SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting
@@ -25,4 +23,11 @@
     - Yinqian Zhang
   publisher: USENIX Security Symposium 2021
   date: 2021-01-01
-  link: https://www.usenix.org/conference/usenixsecurity21/presentation/chen-sanchuan
+
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
