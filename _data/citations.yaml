@@ -1,29 +1,10 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1109/TBDATA.2024.3495497
-  title: An Enhanced and Robust Data Publishing Scheme for Private and Useful 1:M
-    Microdata
-  authors:
-  - Muhammad Rizwan
-  - Ammar Hawbani
-  - Wang Xingfu
-  - Adeel Anjum
-  - Pelin Angin
-  - Yigit Sever
-  - Sanchuan Chen
-  - Liang Zhao
-  - Ahmed Al-Dubai
-  publisher: IEEE Transactions on Big Data
-  date: '2024-01-01'
-  link: https://doi.org/g8r6nk
-  plugin: sources.py
-  file: sources.yaml
-- title: Some Publication Title
-  authors:
-  - '**Steve McQueen**'
-  - Lightning McQueen
-  publisher: bioRxiv
-  date: '2021-01-01'
-  link: biorxiv.org/1234
+- id: orcid:0009-0002-3925-8079
+  title: ORCID
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://orcid.org/0009-0002-3925-8079
   plugin: sources.py
   file: sources.yaml
