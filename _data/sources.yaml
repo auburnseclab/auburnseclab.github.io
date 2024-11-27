@@ -1,8 +1,7 @@
 - id: doi:10.1109/TBDATA.2024.3495497
 
 
-- id: usenix-sanchuan-chen
-  title: Some Publication Title
+- title: Some Publication Title
   authors:
     - "**Steve McQueen**"
     - Lightning McQueen
