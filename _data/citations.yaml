@@ -106,7 +106,7 @@
   file: orcid.yaml
 - title: 'Controlled Data Races in Enclaves: Attacks and Detection'
   authors:
-  - '**Sanchuan Chen**'
+  - Sanchuan Chen
   - Zhiqiang Lin
   - Yinqian Zhang
   publisher: USENIX Security Symposium 2023
@@ -117,7 +117,7 @@
 - title: Exploring Value Set Analysis for Binary Code Hardening and Vulnerability
     Detection
   authors:
-  - '**Sanchuan Chen**'
+  - Sanchuan Chen
   publisher: Ph.D. Dissertation
   date: '2021-01-01'
   link: https://www.proquest.com/dissertations-theses/exploring-value-set-analysis-binary-code/docview/2697183017/se-2
@@ -125,7 +125,7 @@
   file: sources.yml
 - title: 'SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting'
   authors:
-  - '**Sanchuan Chen**'
+  - Sanchuan Chen
   - Zhiqiang Lin
   - Yinqian Zhang
   publisher: USENIX Security Symposium 2021
