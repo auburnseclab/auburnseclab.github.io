@@ -1,5 +1,5 @@
 # manually provide all citation details
-- title: Controlled Data Races in Enclaves: Attacks and Detection
+- title: "Controlled Data Races in Enclaves: Attacks and Detection"
   authors:
     - "**Sanchuan Chen**"
     - Zhiqiang Lin
@@ -13,7 +13,7 @@
   publisher: Ph.D. Dissertation
   date: 2021-01-01
   
-- title: SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting
+- title: "SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting"
   authors:
     - "**Sanchuan Chen**"
     - Zhiqiang Lin
