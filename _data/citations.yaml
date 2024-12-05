@@ -54,8 +54,9 @@
   link: https://doi.org/gk8j5t
   orcid: 0009-0002-3925-8079
   sanchuan-chen: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yml
+  image: images/lhtm.jpg
 - id: doi:10.1109/sp.2018.00024
   title: 'Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with
     Contrived Data Races'
@@ -73,8 +74,9 @@
   link: https://doi.org/gmbp4b
   orcid: 0009-0002-3925-8079
   sanchuan-chen: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yml
+  image: images/hyperrace.jpg
 - id: doi:10.1145/3133956.3134016
   title: 'Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS
     Vulnerabilities in Secure Enclaves'
@@ -91,6 +93,7 @@
   sanchuan-chen: true
   plugin: sources.py
   file: sources.yml
+  image: images/stacco.jpg
 - id: doi:10.1145/3052973.3053007
   title: "Detecting Privileged Side-Channel Attacks in Shielded Execution with D\xE9\
     j\xE0 Vu"
