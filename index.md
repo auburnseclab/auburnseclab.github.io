@@ -88,6 +88,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-<div id="iptracker" style="float: right; visibility: hidden">
+<div id="iptracker" style="float: right; visibility: hidden; display: none;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oxkl7Keoq53_tjpwqB_b_22kwAXf2iZSu_Zilg3DXIg&cl=ffffff&w=a"></script>
 </div>
