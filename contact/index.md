@@ -41,7 +41,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 
 {% endcapture %}
-
+-->
+<!---
 {% capture col2 %}
 
 {%
@@ -51,7 +52,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 
 {% endcapture %}
+-->
 
+<!---
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
