@@ -77,6 +77,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
 
