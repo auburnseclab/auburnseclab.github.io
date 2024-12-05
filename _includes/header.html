@@ -16,9 +16,8 @@
     data-big
   {% endif %}
 >
-  <!---<a href="{{ "/" | relative_url }}" class="home">-->
-  <a href="{{ relative_url }}" class="home">
-    {% if logo %}
+  <a href="{{ "/" | relative_url }}" class="home">
+    {% if logo and relative_url %}
       <span class="logo">
         {% if svg %}
           {{ svg | file_read }}
