@@ -15,6 +15,7 @@
   publisher: Ph.D. Dissertation
   date: 2021-01-01
   link: "https://www.proquest.com/dissertations-theses/exploring-value-set-analysis-binary-code/docview/2697183017/se-2"
+  image: "images/thesis.jpg"
   
 - title: "SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting"
   authors:
@@ -31,3 +32,7 @@
   title: "Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves"
 - id: doi:10.1109/eurosp.2019.00020
   image: "images/sgxpectre.jpg"
+- id: doi:10.1109/tbdata.2024.3495497
+  image: "images/1m.jpg"
+- id: doi:10.1145/3052973.3053007
+  image: "images/dejavu.jpg"
