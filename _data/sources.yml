@@ -7,7 +7,7 @@
   publisher: USENIX Security Symposium 2023
   date: 2023-01-01
   link: "https://www.usenix.org/conference/usenixsecurity23/presentation/chen-sanchuan"
-  image: "images/sgxracer.png"
+  image: "images/sgxracer.jpg"
 
 - title: Exploring Value Set Analysis for Binary Code Hardening and Vulnerability Detection
   authors:
@@ -24,6 +24,7 @@
   publisher: USENIX Security Symposium 2021
   date: 2021-01-01
   link: "https://www.usenix.org/conference/usenixsecurity21/presentation/chen-sanchuan"
+  image: "images/selectivetaint.jpg"
 
 # manually correct specific citation detail
 - id: doi:10.1145/3133956.3134016
