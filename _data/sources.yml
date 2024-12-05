@@ -29,3 +29,5 @@
 # manually correct specific citation detail
 - id: doi:10.1145/3133956.3134016
   title: "Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves"
+- id: doi:10.1109/eurosp.2019.00020
+  image: "images/sgxpectre.jpg"
