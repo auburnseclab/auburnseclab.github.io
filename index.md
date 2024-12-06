@@ -7,11 +7,8 @@
 An engaging 1-3 sentence description of your lab.
 -->
 
-<span class="title">{{ description }}
+The Secure and Confidential Computing Lab is a team of researchers at Auburn University dedicated to advancing computer security through innovative approaches in software and hardware security. Our goal is to advance the frontiers of computer security by developing innovative software security and machine learning techniques that protect software and hardware systems from emerging vulnerabilities across deep learning frameworks, High Performance Computing environments, and programming languages.
 
-{{ description }}
-
-{ description }
 
 {% include section.html %}
 
