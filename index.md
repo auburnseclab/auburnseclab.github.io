@@ -7,6 +7,12 @@
 An engaging 1-3 sentence description of your lab.
 -->
 
+<span class="title">{{ description }}
+
+{{ description }}
+
+{ description }
+
 {% include section.html %}
 
 ## Highlights
