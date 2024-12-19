@@ -46,7 +46,7 @@ Our current research spans a wide spectrum of research topics, including:
 
 
 
-
+<!---
 <ul>
   <li style="color: #092312;">Software Security
     <ul>
@@ -93,6 +93,7 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
 </ul>
+-->
 
 
 
@@ -102,7 +103,204 @@ Our current research spans a wide spectrum of research topics, including:
 
 
 
-
+<ul style="list-style-type: none; padding: 0; width: 300px;">
+  <li>
+    <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#0D351B'; 
+            this.style.color='white'; 
+            this.style.transform='translateX(10px)';
+            this.style.cursor='pointer';"
+      onmouseout="this.style.backgroundColor='white';
+             this.style.color='#0D351B';
+             this.style.transform='translateX(0)';"><i class="fas fa-check-square">Software Security</span>
+    <ul style="list-style-type: none; padding-left: 20px; width: 280px;">
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">General</span>
+      </li>
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Program Analysis</span>
+        <ul style="list-style-type: none; padding-left: 20px; width: 260px;">
+          <li>
+            <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+              onmouseover="this.style.backgroundColor='#0D351B'; 
+                    this.style.color='white'; 
+                    this.style.transform='translateX(10px)';
+                    this.style.cursor='pointer';"
+              onmouseout="this.style.backgroundColor='white';
+                     this.style.color='#0D351B';
+                     this.style.transform='translateX(0)';"><i class="fas fa-check-square">Binary Analysis</span>
+            <ul style="list-style-type: none; padding-left: 20px; width: 240px;">
+              <li>
+                <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+                  onmouseover="this.style.backgroundColor='#0D351B'; 
+                        this.style.color='white'; 
+                        this.style.transform='translateX(10px)';
+                        this.style.cursor='pointer';"
+                  onmouseout="this.style.backgroundColor='white';
+                         this.style.color='#0D351B';
+                         this.style.transform='translateX(0)';"><i class="fas fa-check-square">General</span>
+              </li>
+              <li>
+                <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+                  onmouseover="this.style.backgroundColor='#0D351B'; 
+                        this.style.color='white'; 
+                        this.style.transform='translateX(10px)';
+                        this.style.cursor='pointer';"
+                  onmouseout="this.style.backgroundColor='white';
+                         this.style.color='#0D351B';
+                         this.style.transform='translateX(0)';"><i class="fas fa-check-square">Heterogeneous Systems Binary Analysis</span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Program Testing</span>
+        <ul style="list-style-type: none; padding-left: 20px; width: 260px;">
+          <li>
+            <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+              onmouseover="this.style.backgroundColor='#0D351B'; 
+                    this.style.color='white'; 
+                    this.style.transform='translateX(10px)';
+                    this.style.cursor='pointer';"
+              onmouseout="this.style.backgroundColor='white';
+                     this.style.color='#0D351B';
+                     this.style.transform='translateX(0)';"><i class="fas fa-check-square">Fuzz Testing</span>
+            <ul style="list-style-type: none; padding-left: 20px; width: 240px;">
+              <li>
+                <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+                  onmouseover="this.style.backgroundColor='#0D351B'; 
+                        this.style.color='white'; 
+                        this.style.transform='translateX(10px)';
+                        this.style.cursor='pointer';"
+                  onmouseout="this.style.backgroundColor='white';
+                         this.style.color='#0D351B';
+                         this.style.transform='translateX(0)';"><i class="fas fa-check-square">General</span>
+              </li>
+              <li>
+                <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+                  onmouseover="this.style.backgroundColor='#0D351B'; 
+                        this.style.color='white'; 
+                        this.style.transform='translateX(10px)';
+                        this.style.cursor='pointer';"
+                  onmouseout="this.style.backgroundColor='white';
+                         this.style.color='#0D351B';
+                         this.style.transform='translateX(0)';"><i class="fas fa-check-square">Directed Fuzzing</span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#0D351B'; 
+            this.style.color='white'; 
+            this.style.transform='translateX(10px)';
+            this.style.cursor='pointer';"
+      onmouseout="this.style.backgroundColor='white';
+             this.style.color='#0D351B';
+             this.style.transform='translateX(0)';"><i class="fas fa-check-square">Hardware Security</span>
+    <ul style="list-style-type: none; padding-left: 20px; width: 280px;">
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Trusted Execution Environments</span>
+        <ul style="list-style-type: none; padding-left: 20px; width: 260px;">
+          <li>
+            <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+              onmouseover="this.style.backgroundColor='#0D351B'; 
+                    this.style.color='white'; 
+                    this.style.transform='translateX(10px)';
+                    this.style.cursor='pointer';"
+              onmouseout="this.style.backgroundColor='white';
+                     this.style.color='#0D351B';
+                     this.style.transform='translateX(0)';"><i class="fas fa-check-square">Remote Attestation</span>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Hardware-Software Co-Design</span>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#0D351B'; 
+            this.style.color='white'; 
+            this.style.transform='translateX(10px)';
+            this.style.cursor='pointer';"
+      onmouseout="this.style.backgroundColor='white';
+             this.style.color='#0D351B';
+             this.style.transform='translateX(0)';"><i class="fas fa-check-square">Machine Learning Security</span>
+    <ul style="list-style-type: none; padding-left: 20px; width: 280px;">
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">General</span>
+      </li>
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Adversarial Examples</span>
+      </li>
+      <li>
+        <span style="display: inline-block; padding: 10px; background-color: 'white'; margin: 2px 0; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fas fa-check-square">Machine Learning Systems</span>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 
 
