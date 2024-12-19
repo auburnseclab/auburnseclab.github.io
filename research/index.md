@@ -41,10 +41,10 @@ Our current research spans a wide spectrum of research topics, including:
       <li style="color: #0d351b;">General</li>
       <li style="color: #0d351b;">Program Analysis
         <ul>
-          <li style="color: #d93cf7;">Binary Analysis
+          <li style="color: #0d351b;">Binary Analysis
             <ul>
-              <li style="color: #f63cd3;">General</li>
-              <li style="color: #f63cd3;">Heterogeneous Systems Binary Analysis</li>
+              <li style="color: #0d351b;">General</li>
+              <li style="color: #0d351b;">Heterogeneous Systems Binary Analysis</li>
             </ul>
           </li>
         </ul>
@@ -53,10 +53,10 @@ Our current research spans a wide spectrum of research topics, including:
     <ul>
       <li style="color: #0d351b;">Program Testing
         <ul>
-          <li style="color: #d93cf7;">Fuzz Testing
+          <li style="color: #0d351b;">Fuzz Testing
             <ul>
-              <li style="color: #f63cd3;">General</li>
-              <li style="color: #f63cd3;">Directed Fuzzing</li>
+              <li style="color: #0d351b;">General</li>
+              <li style="color: #0d351b;">Directed Fuzzing</li>
             </ul>
           </li>
         </ul>
@@ -67,7 +67,7 @@ Our current research spans a wide spectrum of research topics, including:
     <ul>
       <li style="color: #0d351b;">Trusted Execution Environments
         <ul>
-          <li style="color: #d93cf7;">Remote Attestation</li>
+          <li style="color: #0d351b;">Remote Attestation</li>
         </ul>
       </li>
       <li style="color: #0d351b;">Hardware-Software Co-Designs</li>
@@ -87,8 +87,11 @@ Our current research spans a wide spectrum of research topics, including:
 {% include section.html %}
 
 
-
+<!---
 ## All
+-->
+
+## Publications
 
 {% include search-box.html %}
 
