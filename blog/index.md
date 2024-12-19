@@ -2,8 +2,19 @@
 title: News
 nav:
   order: 3
+  tooltip: News
+---
+
+
+<!---
+---
+title: News
+nav:
+  order: 3
   tooltip: Musings and miscellany
 ---
+-->
+
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 <!---
