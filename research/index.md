@@ -1,12 +1,22 @@
 ---
+title: Research
+nav:
+  order: 2
+  tooltip: Our research and publications
+---
+
+<!---
+---
 title: Publications
 nav:
   order: 2
   tooltip: Published works
 ---
+-->
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 <!---
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 -->
@@ -33,6 +43,58 @@ Our current research spans a wide spectrum of research topics, including:
   - Adversarial Examples
   - Machine Learning Systems
 -->
+
+<style>
+.list {
+  position: relative;
+}
+.list h2 {
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.list ul {
+  position: relative;
+}
+.list ul li {
+  position: relative;
+  left: 0;
+  color: #fce4ec;
+  list-style: none;
+  margin: 4px 0;
+  border-left: 2px solid #f50057;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.list ul li:hover {
+  left: 10px;
+}
+.list ul li span {
+  position: relative;
+  padding: 8px;
+  padding-left: 12px;
+  display: inline-block;
+  z-index: 1;
+  transition: 0.5s;
+}
+.list ul li:hover span {
+  color: #111;
+}
+.list ul li:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #f50057;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: 0.5s;
+}
+.list ul li:hover:before {
+  transform: scaleX(1);
+}
+</style>
 
 
 <ul>
