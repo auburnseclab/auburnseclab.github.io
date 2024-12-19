@@ -50,7 +50,7 @@ Our current research spans a wide spectrum of research topics, including:
 <ul>
   <li style="color: #092312;">Software Security
     <ul>
-      <li style="color: #0d351b;">General</li>
+      <li style="color: #0d351b;"><i class="fas fa-folder"></i>General</li>
       <li style="color: #0d351b;">Program Analysis
         <ul>
           <li style="color: #0d351b;">Binary Analysis
@@ -93,6 +93,25 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
