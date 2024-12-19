@@ -144,7 +144,14 @@ Our current research spans a wide spectrum of research topics, including:
   </li>
 </ul>
 
-
+<ul>
+  <li><span>Lorem ipsum dolor sit amet</span></li>
+  <li><span>Consectetur adipisicing elit</span></li>
+  <li><span>Ut labore et dolore magna aliqua</span></li>
+  <li><span>Ut enim ad minim veniam</span></li>
+  <li><span>Quis nostrud exercitation ullamco</span></li>
+  <li><span>Laboris nisi ut aliquip ex</span></li>
+</ul>
 
 {% include section.html %}
 
