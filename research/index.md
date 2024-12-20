@@ -159,7 +159,7 @@ Our current research spans a wide spectrum of topics, including:
                         this.style.cursor='pointer';"
                   onmouseout="this.style.backgroundColor='white';
                          this.style.color='#0D351B';
-                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Heterogeneous Systems Binary Analysis</span>
+                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Heterogeneous Binary</span>
               </li>
             </ul>
           </li>
