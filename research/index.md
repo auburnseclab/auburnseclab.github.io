@@ -102,108 +102,108 @@ Our current research spans a wide spectrum of research topics, including:
 
 <ul style="list-style-type: none; padding: 0;">
   <li>
-    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
             this.style.cursor='pointer';"
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
-             this.style.transform='translateX(0)';">Software Security</span>
-    <ul style="list-style-type: none; padding-left: 5vw;">
+             this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Software Security</span>
+    <ul style="list-style-type: none; padding-left: 10px;">
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">General</span>
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>General</span>
       </li>
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Program Analysis</span>
-        <ul style="list-style-type: none; padding-left: 5vw;">
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Program Analysis</span>
+        <ul style="list-style-type: none; padding-left: 10px;">
           <li>
-            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
                     this.style.cursor='pointer';"
               onmouseout="this.style.backgroundColor='white';
                      this.style.color='#0D351B';
-                     this.style.transform='translateX(0)';">Binary Analysis</span>
-            <ul style="list-style-type: none; padding-left: 5vw;">
+                     this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Binary Analysis</span>
+            <ul style="list-style-type: none; padding-left: 10px;">
               <li>
-                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
                         this.style.cursor='pointer';"
                   onmouseout="this.style.backgroundColor='white';
                          this.style.color='#0D351B';
-                         this.style.transform='translateX(0)';">General</span>
+                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>General</span>
               </li>
               <li>
-                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
                         this.style.cursor='pointer';"
                   onmouseout="this.style.backgroundColor='white';
                          this.style.color='#0D351B';
-                         this.style.transform='translateX(0)';">Heterogeneous Systems Binary Analysis</span>
+                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Heterogeneous Systems Binary Analysis</span>
               </li>
             </ul>
           </li>
         </ul>
       </li>
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Program Testing</span>
-        <ul style="list-style-type: none; padding-left: 5vw;">
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Program Testing</span>
+        <ul style="list-style-type: none; padding-left: 10px;">
           <li>
-            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
                     this.style.cursor='pointer';"
               onmouseout="this.style.backgroundColor='white';
                      this.style.color='#0D351B';
-                     this.style.transform='translateX(0)';">Fuzz Testing</span>
-            <ul style="list-style-type: none; padding-left: 5vw;">
+                     this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Fuzz Testing</span>
+            <ul style="list-style-type: none; padding-left: 10px;">
               <li>
-                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
                         this.style.cursor='pointer';"
                   onmouseout="this.style.backgroundColor='white';
                          this.style.color='#0D351B';
-                         this.style.transform='translateX(0)';">General</span>
+                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>General</span>
               </li>
               <li>
-                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
                         this.style.cursor='pointer';"
                   onmouseout="this.style.backgroundColor='white';
                          this.style.color='#0D351B';
-                         this.style.transform='translateX(0)';">Directed Fuzzing</span>
+                         this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Directed Fuzzing</span>
               </li>
             </ul>
           </li>
@@ -212,92 +212,93 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
   <li>
-    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
             this.style.cursor='pointer';"
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
-             this.style.transform='translateX(0)';">Hardware Security</span>
-    <ul style="list-style-type: none; padding-left: 5vw;">
+             this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Hardware Security</span>
+    <ul style="list-style-type: none; padding-left: 10px;">
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Trusted Execution Environments</span>
-        <ul style="list-style-type: none; padding-left: 5vw;">
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Trusted Execution Environments</span>
+        <ul style="list-style-type: none; padding-left: 10px;">
           <li>
-            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
                     this.style.cursor='pointer';"
               onmouseout="this.style.backgroundColor='white';
                      this.style.color='#0D351B';
-                     this.style.transform='translateX(0)';">Remote Attestation</span>
+                     this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Remote Attestation</span>
           </li>
         </ul>
       </li>
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Hardware-Software Co-Design</span>
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Hardware-Software Co-Design</span>
       </li>
     </ul>
   </li>
   <li>
-    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
             this.style.cursor='pointer';"
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
-             this.style.transform='translateX(0)';">Machine Learning Security</span>
-    <ul style="list-style-type: none; padding-left: 5vw;">
+             this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Machine Learning Security</span>
+    <ul style="list-style-type: none; padding-left: 10px;">
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">General</span>
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>General</span>
       </li>
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Adversarial Examples</span>
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Adversarial Examples</span>
       </li>
       <li>
-        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
                 this.style.cursor='pointer';"
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
-                 this.style.transform='translateX(0)';">Machine Learning Systems</span>
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Machine Learning Systems</span>
       </li>
     </ul>
   </li>
 </ul>
+
 
 
 
