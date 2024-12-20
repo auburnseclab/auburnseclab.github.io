@@ -100,10 +100,9 @@ Our current research spans a wide spectrum of research topics, including:
 
 
 
-
 <ul style="list-style-type: none; padding: 0;">
   <li>
-    <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
@@ -111,9 +110,9 @@ Our current research spans a wide spectrum of research topics, including:
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
              this.style.transform='translateX(0)';">Software Security</span>
-    <ul style="list-style-type: none; padding-left: 20px;">
+    <ul style="list-style-type: none; padding-left: 5vw;">
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -123,7 +122,7 @@ Our current research spans a wide spectrum of research topics, including:
                  this.style.transform='translateX(0)';">General</span>
       </li>
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -131,9 +130,9 @@ Our current research spans a wide spectrum of research topics, including:
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
                  this.style.transform='translateX(0)';">Program Analysis</span>
-        <ul style="list-style-type: none; padding-left: 20px;">
+        <ul style="list-style-type: none; padding-left: 5vw;">
           <li>
-            <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
@@ -141,9 +140,9 @@ Our current research spans a wide spectrum of research topics, including:
               onmouseout="this.style.backgroundColor='white';
                      this.style.color='#0D351B';
                      this.style.transform='translateX(0)';">Binary Analysis</span>
-            <ul style="list-style-type: none; padding-left: 20px;">
+            <ul style="list-style-type: none; padding-left: 5vw;">
               <li>
-                <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
@@ -153,7 +152,7 @@ Our current research spans a wide spectrum of research topics, including:
                          this.style.transform='translateX(0)';">General</span>
               </li>
               <li>
-                <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
@@ -167,7 +166,7 @@ Our current research spans a wide spectrum of research topics, including:
         </ul>
       </li>
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -175,9 +174,9 @@ Our current research spans a wide spectrum of research topics, including:
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
                  this.style.transform='translateX(0)';">Program Testing</span>
-        <ul style="list-style-type: none; padding-left: 20px;">
+        <ul style="list-style-type: none; padding-left: 5vw;">
           <li>
-            <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
@@ -185,9 +184,9 @@ Our current research spans a wide spectrum of research topics, including:
               onmouseout="this.style.backgroundColor='white';
                      this.style.color='#0D351B';
                      this.style.transform='translateX(0)';">Fuzz Testing</span>
-            <ul style="list-style-type: none; padding-left: 20px;">
+            <ul style="list-style-type: none; padding-left: 5vw;">
               <li>
-                <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
@@ -197,7 +196,7 @@ Our current research spans a wide spectrum of research topics, including:
                          this.style.transform='translateX(0)';">General</span>
               </li>
               <li>
-                <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+                <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
                   onmouseover="this.style.backgroundColor='#0D351B'; 
                         this.style.color='white'; 
                         this.style.transform='translateX(10px)';
@@ -213,7 +212,7 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
   <li>
-    <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
@@ -221,9 +220,9 @@ Our current research spans a wide spectrum of research topics, including:
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
              this.style.transform='translateX(0)';">Hardware Security</span>
-    <ul style="list-style-type: none; padding-left: 20px;">
+    <ul style="list-style-type: none; padding-left: 5vw;">
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -231,9 +230,9 @@ Our current research spans a wide spectrum of research topics, including:
           onmouseout="this.style.backgroundColor='white';
                  this.style.color='#0D351B';
                  this.style.transform='translateX(0)';">Trusted Execution Environments</span>
-        <ul style="list-style-type: none; padding-left: 20px;">
+        <ul style="list-style-type: none; padding-left: 5vw;">
           <li>
-            <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+            <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
               onmouseover="this.style.backgroundColor='#0D351B'; 
                     this.style.color='white'; 
                     this.style.transform='translateX(10px)';
@@ -245,7 +244,7 @@ Our current research spans a wide spectrum of research topics, including:
         </ul>
       </li>
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -257,7 +256,7 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
   <li>
-    <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+    <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
       onmouseover="this.style.backgroundColor='#0D351B'; 
             this.style.color='white'; 
             this.style.transform='translateX(10px)';
@@ -265,9 +264,9 @@ Our current research spans a wide spectrum of research topics, including:
       onmouseout="this.style.backgroundColor='white';
              this.style.color='#0D351B';
              this.style.transform='translateX(0)';">Machine Learning Security</span>
-    <ul style="list-style-type: none; padding-left: 20px;">
+    <ul style="list-style-type: none; padding-left: 5vw;">
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -277,7 +276,7 @@ Our current research spans a wide spectrum of research topics, including:
                  this.style.transform='translateX(0)';">General</span>
       </li>
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -287,7 +286,7 @@ Our current research spans a wide spectrum of research topics, including:
                  this.style.transform='translateX(0)';">Adversarial Examples</span>
       </li>
       <li>
-        <span style="display: inline-block; background-color: 'white'; transition: all 0.3s ease;"
+        <span style="display: inline-block; padding: 0px 10px; background-color: 'white'; transition: all 0.3s ease;"
           onmouseover="this.style.backgroundColor='#0D351B'; 
                 this.style.color='white'; 
                 this.style.transform='translateX(10px)';
@@ -299,6 +298,7 @@ Our current research spans a wide spectrum of research topics, including:
     </ul>
   </li>
 </ul>
+
 
 
 
