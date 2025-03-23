@@ -297,6 +297,28 @@ Our current research spans a wide spectrum of topics, including:
       </li>
     </ul>
   </li>
+<li>
+    <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#0D351B'; 
+            this.style.color='white'; 
+            this.style.transform='translateX(10px)';
+            this.style.cursor='pointer';"
+      onmouseout="this.style.backgroundColor='white';
+             this.style.color='#0D351B';
+             this.style.transform='translateX(0)';"><i class="fa fa-chalkboard-user" style="margin-right: 8px"></i>Cryptanalysis</span>
+    <ul style="list-style-type: none; padding-left: 10px;">
+      <li>
+        <span style="display: inline-block; padding: 0px 10px; background-color: white; transition: all 0.3s ease;"
+          onmouseover="this.style.backgroundColor='#0D351B'; 
+                this.style.color='white'; 
+                this.style.transform='translateX(10px)';
+                this.style.cursor='pointer';"
+          onmouseout="this.style.backgroundColor='white';
+                 this.style.color='#0D351B';
+                 this.style.transform='translateX(0)';"><i class="fa fa-microscope" style="margin-right: 8px"></i>Differential Cryptanalysis</span>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 
