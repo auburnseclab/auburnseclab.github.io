@@ -132,6 +132,7 @@
   - Chaoyue Liu
   publisher: DARPA Resilient Software Systems Colloquium
   date: '2025-06-01'
+  link: '#'
   image: images/gelu.png
   plugin: sources.py
   file: sources.yml
