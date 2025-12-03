@@ -121,8 +121,8 @@
   - Haojin Zhu
   publisher: NDSS Symposium 2026
   date: '2026-02-01'
-  link: https://www.ndss-symposium.org/ndss2026/
-  image: images/Exia.png
+  link: '#'
+  image: images/exia.png
   plugin: sources.py
   file: sources.yml
 - title: Extractions of NLP models with Derivative Analysis
