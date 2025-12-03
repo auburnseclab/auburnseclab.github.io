@@ -1,4 +1,27 @@
 # manually provide all citation details
+
+- title: "EXIA: Trusted Transitions for Enclaves via External-Input Attestation"
+  authors:
+    - Zhen Huang
+    - Yidi Kao
+    - Sanchuan Chen
+    - Guoxing Chen
+    - Yan Meng
+    - Haojin Zhu
+  publisher: NDSS Symposium 2026
+  date: 2026-02-01
+  link: "https://www.ndss-symposium.org/ndss2026/"
+  image: "images/exia.png"
+
+- title: "Extractions of NLP models with Derivative Analysis"
+  authors:
+    - Xueqing Zhang
+    - Sanchuan Chen
+    - Chaoyue Liu
+  publisher: DARPA Resilient Software Systems Colloquium
+  date: 2025-06-01
+  image: "images/gelu.png"
+
 - title: "Controlled Data Races in Enclaves: Attacks and Detection"
   authors:
     - Sanchuan Chen
