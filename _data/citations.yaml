@@ -111,6 +111,30 @@
   plugin: sources.py
   file: sources.yml
   image: images/dejavu.jpg
+- title: 'EXIA: Trusted Transitions for Enclaves via External-Input Attestation'
+  authors:
+  - Zhen Huang
+  - Yidi Kao
+  - Sanchuan Chen
+  - Guoxing Chen
+  - Yan Meng
+  - Haojin Zhu
+  publisher: NDSS Symposium 2026
+  date: '2026-02-01'
+  link: https://www.ndss-symposium.org/ndss2026/
+  image: images/exia.png
+  plugin: sources.py
+  file: sources.yml
+- title: Extractions of NLP models with Derivative Analysis
+  authors:
+  - Xueqing Zhang
+  - Sanchuan Chen
+  - Chaoyue Liu
+  publisher: DARPA Resilient Software Systems Colloquium
+  date: '2025-06-01'
+  image: images/gelu.png
+  plugin: sources.py
+  file: sources.yml
 - title: 'Controlled Data Races in Enclaves: Attacks and Detection'
   authors:
   - Sanchuan Chen
