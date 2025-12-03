@@ -20,6 +20,7 @@
     - Chaoyue Liu
   publisher: DARPA Resilient Software Systems Colloquium
   date: 2025-06-01
+  link: "#"
   image: "images/gelu.png"
 
 - title: "Controlled Data Races in Enclaves: Attacks and Detection"
